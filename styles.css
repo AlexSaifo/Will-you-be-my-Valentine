@@ -91,3 +91,22 @@ body {
       height: 200px;
     }
   }
+
+  /* Footer */
+  .site-footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #7a2b4b;
+    text-align: center;
+    opacity: 0.9;
+  }
+
+  .site-footer a {
+    color: #c2185b;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  .site-footer a:hover {
+    text-decoration: underline;
+  }

@@ -33,3 +33,22 @@ body {
     box-shadow: 0 10px 30px rgba(0,0,0,0.15);
     border: 5px solid white;
 }
+
+/* Footer */
+.site-footer {
+    margin-top: 20px;
+    font-size: 0.95em;
+    color: #7a2b4b;
+    text-align: center;
+    opacity: 0.95;
+}
+
+.site-footer a {
+    color: #c2185b;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
